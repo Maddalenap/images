@@ -1,10 +1,10 @@
 # README
-This's my images application.
+This's my images application. :hammer:
 
 # Setup
 Make sure you have Ruby and Rails installed.
 
-* Ruby version: 2.5.3
+:diamonds: Ruby version: 2.5.3 
 
 Run in your terminal
 ```
