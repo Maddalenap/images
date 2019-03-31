@@ -1,24 +1,29 @@
 # README
+This's my images application. :hammer:
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Setup
+Make sure you have Ruby and Rails installed.
 
-Things you may want to cover:
+:diamonds: Ruby version: 2.5.3 
 
-* Ruby version
+Run in your terminal
+```
+git clone git@github.com:Maddalenap/images.git
 
-* System dependencies
+cd images
 
-* Configuration
+bundle install
 
-* Database creation
+rails db:migrate
+```
+And run with
 
-* Database initialization
+```
+rails server
+```
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+You can also use for debugging
+```
+rails console 
+rails routes
+```
