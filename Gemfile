@@ -37,7 +37,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'bootsnap', '>= 1.1.0', require: false
 gem 'bootstrap-sass', '~> 3.4.1'
 gem 'sassc-rails', '>= 2.1.0'
-gem 'devise', '~> 4.6', '>= 4.6.1'
+gem 'devise', '~> 4.7'
 gem 'paperclip', '~> 6.1'
 gem 'jquery-rails', '~> 4.3', '>= 4.3.3'
 gem 'rails-ujs'
